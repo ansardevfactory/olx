@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/olx/static/css/main.58613510.css",
+    "main.js": "/olx/static/js/main.3694945b.js",
+    "static/media/2.png": "/olx/static/media/2.eed7f7d4f080ce6184c3.png",
+    "static/media/playstore_badge.png": "/olx/static/media/playstore_badge.f960fdcd82f10eb63f5e.png",
+    "static/media/bg.png": "/olx/static/media/bg.7c05c4e634a886b737ea.png",
+    "static/media/img.webp": "/olx/static/media/img.b896f278788c8ff65ff8.webp",
+    "index.html": "/olx/index.html",
+    "main.58613510.css.map": "/olx/static/css/main.58613510.css.map",
+    "main.3694945b.js.map": "/olx/static/js/main.3694945b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58613510.css",
+    "static/js/main.3694945b.js"
+  ]
+}
